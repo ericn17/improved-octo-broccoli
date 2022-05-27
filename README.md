@@ -1,7 +1,8 @@
-Created a day planner function to color code past, present, and future according to the hour.
+Created a day planner function to existing starter code that color codes past, present, and future according to the hour.
 
 Added the date on the jumbotron display.
 
-Published Page:
+Published Page: https://ericn17.github.io/improved-octo-broccoli/
 
-Screenshot:![improved-octo-broccoli](https://user-images.githubusercontent.com/103549017/170618017-a7626f15-a110-451b-b861-803bc7ef2d7d.png)
+Screenshot:![ericn17 github io_improved-octo-broccoli_](https://user-images.githubusercontent.com/103549017/170618385-121e63ef-56a6-4e77-b22e-01ad93a8842a.png)
+
